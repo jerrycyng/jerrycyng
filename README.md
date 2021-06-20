@@ -8,6 +8,7 @@
 
 - 📫 Please reach me by 
       Gmail: jerrychunying@gmail.com
+      
       Linkedin: https://www.linkedin.com/in/jerry-cy-ng-0829ba1b5/
 
 
