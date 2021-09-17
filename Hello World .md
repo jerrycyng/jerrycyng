@@ -10,10 +10,10 @@
 
 - 💞️ I’m looking to collaborate with data analytics projects, preferrably in the banking projects.  
 
-- 📫 Please reach me by 
-      Gmail: jerrychunying@gmail.com
-      
-      Linkedin: https://www.linkedin.com/in/jerry-cy-ng-0829ba1b5/
+- 📫 Please dont hesistate to drop me a message by jerrychunying@gmail.com
+     
+- 📝 Feel free to review my linkedin profile and connect me as well 
+      https://www.linkedin.com/in/jerry-cy-ng-0829ba1b5/
 
 
 
