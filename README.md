@@ -1,14 +1,14 @@
-- 👋 Hello everyone, I am Jerry Ng from Hong Kong. 
+- 👋 Hello everyone, this is Jerry Ng from Hong Kong. 
 
 - 🏫 I am currently a sophomore BBA Finance and Data Science student from the City University of Hong Kong. 
 
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in finance and data science. 
 
-- 🌱 I’m currently learning Tableau, Python and SQL 
+- 🌱 I’m currently gaining hands-on experiences in machine learning and data analytics. 
 
 - 💼 I am aspired to devote myself to a banking and finance career – a challenging career that combines both technical and interpersonal professions. 
 
-- 💞️ I’m looking to collaborate with data analytics projects, preferrably in the banking projects.  
+- 💞️ I’m looking to collaborate with data science projects, preferrably in the banking projects.  
 
 - 📫 Please dont hesistate to drop me a message by jerrychunying@gmail.com
      
