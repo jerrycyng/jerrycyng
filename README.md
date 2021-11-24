@@ -1,6 +1,6 @@
 - 👋 Hello everyone, this is Jerry Ng from Hong Kong. 
 
-- 🏫 I am currently a sophomore BBA Finance and Data Science student from the City University of Hong Kong. 
+- 🏫 I am currently a sophomore BBA Finance and Computer Science student from the City University of Hong Kong. 
 
 - 👀 I’m interested in finance and data science. 
 
