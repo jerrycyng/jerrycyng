@@ -8,8 +8,6 @@
 
 - 💼 I am aspired to devote myself to a banking and finance career – a challenging career that combines both technical and interpersonal professions. 
 
-- 💞️ I’m looking to collaborate with data science projects, preferrably in the banking projects.  
-
 - 📫 Please dont hesistate to drop me a message by jerrychunying@gmail.com
      
 - 📝 Feel free to review my linkedin profile and connect me as well 
